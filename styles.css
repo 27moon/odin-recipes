@@ -1,0 +1,11 @@
+* {
+    font-family: "DejaVu Sans", Verdana, sans-serif;
+}
+h1, h2, h3, p {
+    text-align: center;
+    color: brown;
+}
+
+ul, ol {
+    color: brown;
+}
